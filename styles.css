@@ -1,0 +1,43 @@
+.cia {
+    color: darkgreen;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#Director {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+li:first-child {
+    color: darkred;
+}
+li:nth-child(2) {
+    color: blue
+}
+li:nth-child(3) {
+    color: darkgrey
+}
+a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  a:active {
+    text-decoration: underline;
+  }
+  .You {
+    text-transform: uppercase;
+  }
+  img {
+      float: left;
+      padding-right: 10px;
+      padding-bottom: 10px;
+      padding-left: 5px;
+      border-radius: 20px;
+  }
